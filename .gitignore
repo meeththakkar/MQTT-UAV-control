@@ -1,1 +1,5 @@
 /.settings/
+/.project
+
+*.project
+gesture-common/.project
